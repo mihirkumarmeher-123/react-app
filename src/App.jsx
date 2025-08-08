@@ -1,7 +1,11 @@
 import React from "react";
 
 function App() {
-  return <h1>This is a simple demo app.</h1>;
+  return 
+  <>
+  <H1>Hii i ama ansul jain creating your repo to start the proj</H1>
+  </>
+
 }
 
 export default App;
